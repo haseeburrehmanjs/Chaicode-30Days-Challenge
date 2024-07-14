@@ -49,3 +49,6 @@ const MyName = 'rohan'
 console.log(MyName);
 MyName = 'set abid' // ===> this is constaint variable
 console.log(MyName);
+
+
+// DAY 1 VARIABLES AND DATA TYPES COMPLETED
