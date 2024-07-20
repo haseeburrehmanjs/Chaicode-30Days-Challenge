@@ -4,7 +4,18 @@
 
 // Activity 1: If-Else Statements
 // • Task 1: Write a program to check if a number is positive, negative, or zero, and log the result to the console.
+
+let number = -1
+
+if(number >= 0){
+    console.log('This number is positive');
+}else (
+    console.log('this number is negative')
+)
+
 // • Task 2: Write a program to check if a person is eligible to vote (age >= 18) and log the result to the console. 
+
+
 
 
 // Activity 2: Nested If-Else Statements
