@@ -111,7 +111,9 @@ getGrade(105); // Outputs: Invalid score. Please enter a score between 0 and 100
 // Activity 4: Conditional (Ternary) Operator
 // • Task 6: Write a program that uses the ternary operator to check if a number is even or odd and log the result to the console.
 
+let checkNumber = 7
 
+checkNumber % 2 === 0 ? console.log(`this is even number`) : console.log('this is odd number')
 
 
 // Activity 5: Combining Conditions
